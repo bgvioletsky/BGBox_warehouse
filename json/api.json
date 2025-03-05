@@ -25,7 +25,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/fan.txt"
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/fan.txt"
         },{
             "key": "厂长弹幕",
             "name": "厂长",
@@ -56,7 +56,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/fan.txt"
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/fan.txt"
         }, {
             "key": "zxzj",
             "name": "在线",
@@ -67,7 +67,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.zxzjhd.com/",
-            "jar": "./jar/fan.txt"
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/fan.txt"
         },{
             "key": "文才弹幕",
             "name": "文才",
@@ -114,15 +114,15 @@
             "key": "腾讯弹幕",
             "name": "腾讯",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/腾讯弹幕.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/腾讯弹幕.js"
         },
         {
             "key": "优酷弹幕",
             "name": "优酷",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/优酷弹幕.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/优酷弹幕.js"
         }, {
             "key": "三六零弹幕",
             "name": "三六零",
@@ -172,7 +172,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/河马短剧.json"
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/XYQHiker/河马短剧.json"
         }, {
             "key": "短剧屋",
             "name": "短剧屋短剧",
@@ -181,7 +181,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XYQHiker/短剧屋.json"
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/XYQHiker/短剧屋.json"
         }, {
             "key": "洽洽影视",
             "name": "洽洽APP",
@@ -207,10 +207,10 @@
             "key": "采集之王",
             "name": "采集合集",
             "type": 3,
-            "api": "./js/drpy2.min.js",
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/采集之王.js?type=url&params=https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/json/采集静态.json$1$1"
         }, {
             "key": "低端影视",
             "name": "低端",

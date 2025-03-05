@@ -7,67 +7,67 @@
             "key": "56动漫",
             "name": "56动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/56动漫.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/56动漫.js"
         },
         {
             "key": "58动漫",
             "name": "58动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/58动漫.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/58动漫.js"
         },
         {
             "key": "NT动漫",
             "name": "NT动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/NT动漫.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/NT动漫.js"
         },
         {
             "key": "Anime1",
             "name": "Anime1动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/Anime1.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/Anime1.js"
         },
         
         {
             "key": "路漫漫",
             "name": "路漫漫动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/路漫漫.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/路漫漫.js"
         },
         {
             "key": "动漫岛",
             "name": "动漫岛动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/动漫岛.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/动漫岛.js"
         },
         {
             "key": "去看吧",
             "name": "去看吧动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/去看吧.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/去看吧.js"
         },
         
         {
             "key": "异世界",
             "name": "异世界动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/异世界.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/异世界.js"
         },
        
         {
             "key": "奇米动漫",
             "name": "奇米动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/奇米动漫.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/奇米动漫.js"
         },
        
        
@@ -75,8 +75,8 @@
             "key": "动漫巴士",
             "name": "巴士动漫",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/动漫巴士.js"
+            "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+            "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/动漫巴士.js"
         }
         
        
