@@ -1,12 +1,12 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/PG.jar",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/PG.jar",
     "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716818643045/wexfnw.gif",
     "sites": [
       {     
               "key": "索尼采集",
               "name": "索尼采集翻",
               "type": 0,
-              "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+              "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
               "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
               "playerType": 1,
               "searchable": 1,
@@ -27,7 +27,7 @@
               "name": "13AV翻",
               "type": 3,
               "api": "csp_XBPQ",
-              "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+              "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
               "style": {
                   "type": "rect",
                   "ratio": 1.5
@@ -71,7 +71,7 @@
       "name": "sexBJcam",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+      "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
       "timeout": 120,
       "style": {
           "type": "rect",
@@ -90,7 +90,7 @@
               "name": "绝美视频",
               "type": 3,
               "api": "csp_XBPQ",
-              "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+              "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
               "style": {
                   "type": "rect",
                   "ratio": 1.5
@@ -106,8 +106,8 @@
         "key": "Theporn",
         "name": "Theporn",
         "type": 3,
-        "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/drpy2.min.js",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "api": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/drpy2.min.js",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "searchable": 1,
         "changeable": 1,
         "timeout": 60,
@@ -115,7 +115,7 @@
           "type": "rect",
           "ratio": 1.5
         },
-        "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/theporn.js"
+        "ext": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/js/theporn.js"
       },
       {
               "key": "JAVRS",
@@ -139,7 +139,7 @@
         "name": "JAVSB",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "ext": {
           "主页url": "https://jav.sb/",
           "直接播放": "1",
@@ -156,7 +156,7 @@
         "name": "JAVDAY",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "ext": {
           "主页url": "https://javday.tv/",
           "直接播放": "1",
@@ -175,7 +175,7 @@
         "name": "色最色",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "ext": {
           "主页url": "https://xn--zovv42dba.com/",
           "直接播放": "1",
@@ -189,7 +189,7 @@
         "name": "亚瑟影库",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "ext": {
           "主页url": "https://www.yasetube.com/",
           "直接播放": "1",
@@ -203,7 +203,7 @@
         "name": "222cuo",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "ext": {
           "主页url": "http://224cuo.com/",
           "直接播放": "1",
@@ -220,7 +220,7 @@
         "name": "19麻豆",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "ext": {
           "站名": "19麻豆",
           "主页url": "https://19q.cc/",
@@ -241,7 +241,7 @@
         "name": "18j.tv",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "ext": {
           "主页url": "https://18j.tv/",
           "直接播放": "1",
@@ -284,7 +284,7 @@
         "name": "sexbj|XBPQ",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "style": {
           "type": "rect",
           "ratio": 1.5
@@ -307,7 +307,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "style": {
           "ratio": 1.7
         },
@@ -323,7 +323,7 @@
         "name": "ppp|fq",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "style": {
           "type": "rect",
           "ratio": 1.6
@@ -343,7 +343,7 @@
         "name": "最色",
         "type": 3,
         "api": "csp_Zuise",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/PG.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/PG.jar",
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
@@ -356,7 +356,7 @@
         "name": "Hentai┃直连",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "style": {
           "type": "rect",
           "ratio": 1.485
@@ -389,7 +389,7 @@
         "filterable": 1,
         "playerType": 2,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "style": {
           "type": "rect",
           "ratio": 1.485
@@ -424,7 +424,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "style": {
           "ratio": 1.7
         },
@@ -440,7 +440,7 @@
         "name": "糖心┃直连",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "style": {
           "ratio": 1.7
         },
@@ -462,7 +462,7 @@
         "name": "天美┃直连",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/XBPQ.jar",
+        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/XBPQ.jar",
         "style": {
           "ratio": 1.485
         },
@@ -948,7 +948,6 @@
         "searchable": 0,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/asdf1319964f/TV/master/PG/lib/Yoursmile2.jar",
         "style": {
           "type": "rect",
           "ratio": 1.485
