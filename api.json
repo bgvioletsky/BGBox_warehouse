@@ -13,9 +13,10 @@
         },
         {
             "key": "预告",
-            "name": "新片｜预告",
+            "name": "新片预告",
             "type": 3,
             "api": "csp_YGP",
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/jar/spider.jar",
             "searchable": 0
         },{
             "key": "厂长弹幕",
@@ -107,7 +108,7 @@
             "ext": "./js/优酷弹幕.js"
         }, {
             "key": "三六零弹幕",
-            "name": "三六零｜弹幕",
+            "name": "三六零",
             "type": 3,
             "api": "csp_Sp360",
             "searchable": 1,
@@ -118,7 +119,7 @@
             }
         },{
             "key": "机器人弹幕",
-            "name": "机器人｜弹幕",
+            "name": "机器人",
             "type": 3,
             "api": "csp_Ikanbot",
             "searchable": 1,
@@ -129,7 +130,7 @@
             }
         },{
             "key": "小苹果弹幕",
-            "name": "小苹果｜弹幕",
+            "name": "小苹果",
             "type": 3,
             "api": "csp_Xpg",
             "searchable": 1,
@@ -140,7 +141,7 @@
             }
         },{
             "key": "星芽短剧",
-            "name": "星芽｜短剧",
+            "name": "星芽短剧",
             "type": 3,
             "api": "csp_AppXY",
             "searchable": 1,
@@ -148,7 +149,7 @@
             "filterable": 0
         }, {
             "key": "河马短剧",
-            "name": "河马｜短剧",
+            "name": "河马短剧",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -157,7 +158,7 @@
             "ext": "./XYQHiker/河马短剧.json"
         }, {
             "key": "短剧屋",
-            "name": "短剧屋｜短剧",
+            "name": "短剧屋短剧",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -166,7 +167,7 @@
             "ext": "./XYQHiker/短剧屋.json"
         }, {
             "key": "洽洽影视",
-            "name": "洽洽｜APP",
+            "name": "洽洽APP",
             "type": 3,
             "api": "csp_AppGZ",
             "searchable": 1,
@@ -174,7 +175,7 @@
             "filterable": 1
         }, {
             "key": "西瓜视频",
-            "name": "西瓜｜视频",
+            "name": "西瓜视频",
             "type": 3,
             "api": "csp_AmuXiguaV2",
             "searchable": 1,
@@ -187,7 +188,7 @@
             }
         },   {
             "key": "采集之王",
-            "name": "采集｜合集",
+            "name": "采集合集",
             "type": 3,
             "api": "./js/drpy2.min.js",
             "searchable": 1,
@@ -195,7 +196,7 @@
             "ext": "./js/采集之王.js?type=url&params=../json/采集静态.json$1$1"
         }, {
             "key": "低端影视",
-            "name": "低端｜影视",
+            "name": "低端",
             "type": 3,
             "api": "csp_Ddys",
             "searchable": 1,
@@ -203,7 +204,7 @@
             "filterable": 1
         }, {
             "key": "快看影视",
-            "name": "快看｜影视",
+            "name": "快看",
             "type": 3,
             "api": "csp_Kuaikan",
             "searchable": 1,
@@ -211,7 +212,7 @@
             "filterable": 1
         }, {
             "key": "农民影视",
-            "name": "农民｜影视",
+            "name": "农民",
             "type": 3,
             "api": "csp_Nmys",
             "searchable": 1,
@@ -219,7 +220,7 @@
             "filterable": 1
         }, {
             "key": "饺子影视",
-            "name": "饺子｜影视",
+            "name": "饺子",
             "type": 3,
             "api": "csp_Jiaozi",
             "searchable": 1,
@@ -227,7 +228,7 @@
             "filterable": 1
         }, {
             "key": "全网影视",
-            "name": "全网｜影视",
+            "name": "全网",
             "type": 3,
             "api": "csp_Quanwk",
             "searchable": 1,
@@ -236,7 +237,7 @@
             "ext": "https://888.qkw2.cc"
         },{
             "key": "看客影视",
-            "name": "看客｜影视",
+            "name": "看客",
             "type": 3,
             "api": "csp_Kanke",
             "searchable": 1,
@@ -245,7 +246,7 @@
             "ext": "https://www.kanmeiju.org"
         }, {
             "key": "瓜子影视",
-            "name": "瓜子｜影视",
+            "name": "瓜子",
             "type": 3,
             "api": "csp_Gz360",
             "searchable": 1,
@@ -253,7 +254,7 @@
             "filterable": 1
         }, {
             "key": "比特影视",
-            "name": "比特｜影视",
+            "name": "比特",
             "type": 3,
             "api": "csp_Bttwo",
             "searchable": 1,
@@ -261,7 +262,7 @@
             "filterable": 1
         }, {
             "key": "金牌影视",
-            "name": "金牌｜影视",
+            "name": "金牌",
             "type": 3,
             "api": "csp_WebJP",
             "searchable": 1,
@@ -269,7 +270,7 @@
             "filterable": 1
         }, {
             "key": "真心影视",
-            "name": "真心｜影视",
+            "name": "真心",
             "type": 3,
             "api": "csp_WebGZ",
             "searchable": 1,
@@ -277,23 +278,15 @@
             "filterable": 1
         }, {
             "key": "小苹果",
-            "name": "小苹果｜影视",
+            "name": "小苹果",
             "type": 3,
             "api": "csp_Xpg",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },{
-            "key": "机器人",
-            "name": "机器人｜影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }, {
             "key": "1905",
-            "name": "1905｜影视",
+            "name": "1905",
             "type": 3,
             "api": "csp_Web1905",
             "searchable": 1,
@@ -301,7 +294,7 @@
             "filterable": 0
         },{
             "key": "红牛资源",
-            "name": "红牛｜采集",
+            "name": "红牛采集",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 1,
@@ -327,7 +320,7 @@
         },
         {
             "key": "光速资源",
-            "name": "光速｜采集",
+            "name": "光速采集",
             "type": 1,
             "api": "http://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -354,7 +347,7 @@
             ]
         }, {
             "key": "极速资源",
-            "name": "极速｜采集",
+            "name": "极速采集",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -385,7 +378,7 @@
             ]
         },{
             "key": "量子资源",
-            "name": "量子｜采集",
+            "name": "量子采集",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
