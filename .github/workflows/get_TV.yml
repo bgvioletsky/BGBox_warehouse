@@ -29,7 +29,6 @@ jobs:
       - name: Clone Source Code
         run: |
           git clone --depth=1 -b ${{ matrix.branchName }} ${{ matrix.repoUrl }} bgcode
-          git fetch --unshallow
 
       - name: Add Sign Info
         run: |
