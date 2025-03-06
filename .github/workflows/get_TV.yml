@@ -29,10 +29,11 @@ jobs:
       - name: Clone Source Code
         run: |
           git clone --depth=1 -b ${{ matrix.branchName }} ${{ matrix.repoUrl }} bgcode
-
+      
       - name: Add Sign Info
         run: |
-          cp -f ${{ github.workspace }}/actions/.github/bgcode.jks ./app/bgcode.jks
+          cd bgcode
+          cp -f ${{ github.workspace }}/actions/.github/bgcode.jks ./bgcode/app/bgcode.jks
           sed -i '$a\RELEASE_STORE_FILE=./bgcode.jks'     ./gradle.properties
           sed -i '$a\RELEASE_KEY_ALIAS=bgcode'            ./gradle.properties
           sed -i '$a\RELEASE_STORE_PASSWORD=bgcode'       ./gradle.properties
@@ -47,7 +48,6 @@ jobs:
 
       - name: Prepare App
         run: |
-            cd bgcode
             mkdir -p ${{ github.workspace }}/apk/
             for file in `find ~ -name "*.apk" -print`; do
               mv "$file" ${{ github.workspace }}/apk/
@@ -56,5 +56,5 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
             name: bgcode
-            path: bgcode/${{ github.workspace }}/apk/*
+            path: ${{ github.workspace }}/apk/*
  
