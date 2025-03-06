@@ -33,7 +33,7 @@ jobs:
       - name: Add Sign Info
         run: |
           cd bgcode
-          cp -f ${{ github.workspace }}/actions/.github/bgcode.jks ./bgcode/app/bgcode.jks
+          cp -f ${{ github.workspace }}/.github/bgcode.jks ./bgcode/app/bgcode.jks
           sed -i '$a\RELEASE_STORE_FILE=./bgcode.jks'     ./gradle.properties
           sed -i '$a\RELEASE_KEY_ALIAS=bgcode'            ./gradle.properties
           sed -i '$a\RELEASE_STORE_PASSWORD=bgcode'       ./gradle.properties
