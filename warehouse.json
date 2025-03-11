@@ -7,6 +7,10 @@
         {
             "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/BGBox_warehouse/main/json/dm.json",
             "name": "动漫"
+        },
+        {
+            "url":"https://github.ednovas.xyz/https://raw.githubusercontent.com/bgvioletsky/TVjar/main/jar/bgcode.json",
+            "name":"bgcode"
         }
     ]
 }
